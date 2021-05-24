@@ -20,6 +20,8 @@ curl -sL https://raw.githubusercontent.com/mesopelagique/nord-4d-theme/main/nord
 
 ## Others
 
+[Other 4D Editor Themes](https://github.com/topics/4d-theme)
+
 ### Convert any visual studio code theme to 4D theme
 
 https://github.com/mesopelagique/VSThemeConverter
