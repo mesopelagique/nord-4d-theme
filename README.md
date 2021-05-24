@@ -1,6 +1,6 @@
 # Nord 4D Theme
 
-Based entirely on [Nord VSCode Theme](https://github.com/arcticicestudio/nord-visual-studio-code).
+Based entirely on [Nord VSCode Theme](https://github.com/arcticicestudio/nord-visual-studio-code) from [Arctic Ice Studio](https://www.arcticicestudio.com/) and Sven Greb.
 
 ![Sample](sample.png)
 
