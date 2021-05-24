@@ -6,13 +6,15 @@ Based entirely on [Nord VSCode Theme](https://github.com/arcticicestudio/nord-vi
 
 ## To install
 
-Take JSON files and put them into 4D editor themes folder. (on macOS `$HOME/Library/Application Support/4D/4D Editor Themes`)
+Take JSON files and put them into 4D editor themes folder.
+- on macOS `$HOME/Library/Application Support/4D/4D Editor Themes`
+- on Window `<diskName>:\Users\userName>\AppData\Roaming\4D\4D Editor Themes`
 
-Then select it in 4D v19+ preferences.
+Then select it in 4D v19+ [preferences](https://developer.4d.com/docs/en/Preferences/methods.html#themes).
 
 ### On macOS
 
-Open a terminal you can type
+Open a terminal, then you can type
 
 ```bash
 curl -sL https://raw.githubusercontent.com/mesopelagique/nord-4d-theme/main/nord-color-theme.json -o $HOME/Library/Application\ Support/4D/4D\ Editor\ Themes/nord-color-theme.json
